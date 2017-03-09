@@ -1,0 +1,7 @@
+#include "functions/DungeonQuest.au3"
+#include "functions/NoxPlayer.au3"
+#include "functions/Battle.au3"
+#include "functions/ImageSearch2015.au3"
+#include "functions/CaptureRegion.au3"
+#include "functions/DebugSaveImage.au3"
+#include "functions/NoxHotkeys.au3"
